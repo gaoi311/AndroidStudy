@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">exp1</string>
+    <array name="class1">
+        <item>软161</item>
+        <item>软162</item>
+        <item>软163</item>
+    </array>
+</resources>
